@@ -1,0 +1,23 @@
+{
+  "name": "file-organizer-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to organize files based on their types",
+  "main": "organizer.js",
+  "bin": {
+    "organize": "organizer.js"
+  },
+  "scripts": {
+    "start": "node organizer.js"
+  },
+  "keywords": [
+    "file",
+    "organizer",
+    "cli",
+    "nodejs"
+  ],
+  "author": "Sumit Pandya",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
