@@ -3,6 +3,7 @@
 > A fast, reliable, and extensible command-line tool to automatically organize files in any directory by their types — simplifying your workflow and decluttering your folders effortlessly.
 
 ---
+Link :- https://www.npmjs.com/package/file-organizer-cli
 
 ## 🚀 Features
 
